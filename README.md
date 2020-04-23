@@ -1,0 +1,2 @@
+# hack-free-fire
+Script
